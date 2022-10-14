@@ -1,4 +1,5 @@
 import { Routes, Route, Link, useParams, HashRouter } from 'react-router-dom';
+import AllRoutes from './routes';
 import './App.css';
 
 function App() {
@@ -28,9 +29,7 @@ function App() {
           </li>
         </ul>
 
-        <Routes>
-          <Route path="/:id" element={<Child />} />
-        </Routes>
+        <AllRoutes />
       </div>
     </HashRouter>
   );
