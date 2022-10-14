@@ -6,7 +6,7 @@ function App() {
   return (
     <HashRouter>
       <div>
-        <h1>Convict Conditioning</h1>
+        <h1>囚徒健身</h1>
 
         <ul>
           <li>
