@@ -1,24 +1,49 @@
-import React from 'react';
-import logo from './logo.svg';
+import { Routes, Route, Link, useParams, HashRouter } from 'react-router-dom';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <HashRouter basename="/convict-conditioning">
+      <div>
+        <h1>Convict Conditioning</h1>
+
+        <ul>
+          <li>
+            <Link to="/chest">俯卧撑</Link>
+          </li>
+          <li>
+            <Link to="/leg">深蹲</Link>
+          </li>
+          <li>
+            <Link to="/back">引体向上</Link>
+          </li>
+          <li>
+            <Link to="/abs">举腿</Link>
+          </li>
+          <li>
+            <Link to="/erector-spinae">下腰</Link>
+          </li>
+          <li>
+            <Link to="/shoulder">倒立撑</Link>
+          </li>
+        </ul>
+
+        <Routes>
+          <Route path="/:id" children={<Child />} />
+        </Routes>
+      </div>
+    </HashRouter>
+  );
+}
+
+function Child() {
+  // We can use the `useParams` hook here to access
+  // the dynamic pieces of the URL.
+  let { id } = useParams();
+
+  return (
+    <div>
+      <h3>ID: {id}</h3>
     </div>
   );
 }
