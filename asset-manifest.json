@@ -1,19 +1,21 @@
 {
   "files": {
     "main.css": "/convict-conditioning/static/css/main.073c9b0a.css",
-    "main.js": "/convict-conditioning/static/js/main.ea3d2065.js",
+    "main.js": "/convict-conditioning/static/js/main.e8906821.js",
     "static/js/787.d0a7c615.chunk.js": "/convict-conditioning/static/js/787.d0a7c615.chunk.js",
     "static/media/abs-2-2.jpg": "/convict-conditioning/static/media/abs-2-2.ec52ae6353fa7b064c12.jpg",
     "static/media/chest-1-2.jpg": "/convict-conditioning/static/media/chest-1-2.7d9550d0b4db3ccc600a.jpg",
     "static/media/abs-2-1.jpg": "/convict-conditioning/static/media/abs-2-1.9b207a86f11b681922b7.jpg",
     "static/media/chest-1-1.jpg": "/convict-conditioning/static/media/chest-1-1.a7991dc1eeb4fddbe7f5.jpg",
+    "static/media/chest-5-1.jpg": "/convict-conditioning/static/media/chest-5-1.f886ea72ac97629b6a82.jpg",
+    "static/media/chest-5-2.jpg": "/convict-conditioning/static/media/chest-5-2.3b4a2daac3408178f11e.jpg",
     "index.html": "/convict-conditioning/index.html",
     "main.073c9b0a.css.map": "/convict-conditioning/static/css/main.073c9b0a.css.map",
-    "main.ea3d2065.js.map": "/convict-conditioning/static/js/main.ea3d2065.js.map",
+    "main.e8906821.js.map": "/convict-conditioning/static/js/main.e8906821.js.map",
     "787.d0a7c615.chunk.js.map": "/convict-conditioning/static/js/787.d0a7c615.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.ea3d2065.js"
+    "static/js/main.e8906821.js"
   ]
 }
