@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   return (
-    <HashRouter basename="/convict-conditioning">
+    <HashRouter>
       <div>
         <h1>Convict Conditioning</h1>
 
@@ -29,7 +29,7 @@ function App() {
         </ul>
 
         <Routes>
-          <Route path="/:id" children={<Child />} />
+          <Route path="/:id" element={<Child />} />
         </Routes>
       </div>
     </HashRouter>
