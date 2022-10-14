@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/convict-conditioning/static/css/main.073c9b0a.css",
-    "main.js": "/convict-conditioning/static/js/main.bfa07f46.js",
+    "main.js": "/convict-conditioning/static/js/main.54814bec.js",
     "static/js/787.d0a7c615.chunk.js": "/convict-conditioning/static/js/787.d0a7c615.chunk.js",
-    "static/media/logo.svg": "/convict-conditioning/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/convict-conditioning/index.html",
     "main.073c9b0a.css.map": "/convict-conditioning/static/css/main.073c9b0a.css.map",
-    "main.bfa07f46.js.map": "/convict-conditioning/static/js/main.bfa07f46.js.map",
+    "main.54814bec.js.map": "/convict-conditioning/static/js/main.54814bec.js.map",
     "787.d0a7c615.chunk.js.map": "/convict-conditioning/static/js/787.d0a7c615.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.bfa07f46.js"
+    "static/js/main.54814bec.js"
   ]
 }
