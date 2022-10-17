@@ -22,6 +22,7 @@ import image00570 from '../img/image00570.jpeg';
 export default function Chest() {
   return (
     <div>
+      <h1>俯卧撑! 锻炼胸肌和肱三头肌</h1>
       <h3>
         <span>第一式</span>　墙壁俯卧撑
       </h3>

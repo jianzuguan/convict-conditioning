@@ -1,5 +1,3 @@
-import abs11 from '../img/abs-2-1.jpg';
-import abs12 from '../img/abs-2-2.jpg';
 import image00606 from '../img/image00606.jpeg';
 import image00607 from '../img/image00607.jpeg';
 import image00608 from '../img/image00608.jpeg';
@@ -18,13 +16,13 @@ import image00620 from '../img/image00620.jpeg';
 import image00621 from '../img/image00621.jpeg';
 import image00622 from '../img/image00622.jpeg';
 import image00623 from '../img/image00623.jpeg';
-import image00568 from '../img/image00568.jpeg';
 import image00624 from '../img/image00624.jpeg';
 import image00625 from '../img/image00625.jpeg';
 
 export default function Back() {
   return (
     <div>
+      <h1>引体! 锻炼背部</h1>
       <h3>
         <span>第一式</span>　垂直引体
       </h3>

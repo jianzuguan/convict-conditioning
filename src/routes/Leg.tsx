@@ -22,6 +22,7 @@ import image00596 from '../img/image00596.jpeg';
 export default function Leg() {
   return (
     <div>
+      <h1>深蹲! 锻炼大腿</h1>
       <h3>
         <span>第一式</span>　肩倒立深蹲
       </h3>

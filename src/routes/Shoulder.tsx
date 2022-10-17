@@ -22,6 +22,7 @@ import image00710 from '../img/image00710.jpeg';
 export default function Shoulder() {
   return (
     <div>
+      <h1>倒立! 锻炼肩膀</h1>
       <h3>
         <span>第一式</span>　靠墙顶立
       </h3>
