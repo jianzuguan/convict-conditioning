@@ -33,7 +33,7 @@ export default function Shoulder() {
       </p>
 
       <div>
-        <img alt="221-1" src={image00691} />
+        <img width={250} alt="221-1" src={image00691} />
       </div>
 
       <p>
@@ -41,7 +41,7 @@ export default function Shoulder() {
       </p>
 
       <div>
-        <img alt="221-2" src={image00692} />
+        <img width={250} alt="221-2" src={image00692} />
 
         <p>图108　一旦双脚靠在墙壁上，就慢慢伸直双腿，把身体摆正。</p>
       </div>
@@ -79,13 +79,13 @@ export default function Shoulder() {
       </p>
 
       <div>
-        <img alt="223-1" src={image00693} />
+        <img width={250} alt="223-1" src={image00693} />
 
         <p>图109　身体向前倾斜，然后让双膝稳稳地夹在两肘外侧。</p>
       </div>
 
       <div>
-        <img alt="223-2" src={image00694} />
+        <img width={250} alt="223-2" src={image00694} />
 
         <p>图110　双脚用力提起，保持平衡，平缓呼吸，坚持一定的时间。</p>
       </div>
@@ -123,13 +123,13 @@ export default function Shoulder() {
       </p>
 
       <div>
-        <img alt="225-1" src={image00695} />
+        <img width={250} alt="225-1" src={image00695} />
 
         <p>图111　双手手掌平放在距离墙根约15～25厘米的地面上，双手与肩同宽。</p>
       </div>
 
       <div>
-        <img alt="225-2" src={image00696} />
+        <img width={250} alt="225-2" src={image00696} />
 
         <p>图112　久而久之你就会掌握完美的上墙技艺。</p>
       </div>
@@ -167,13 +167,13 @@ export default function Shoulder() {
       </p>
 
       <div>
-        <img alt="227-1" src={image00697} />
+        <img width={250} alt="227-1" src={image00697} />
 
         <p>图113　你现在应该处于标准的靠墙倒立姿势。</p>
       </div>
 
       <div>
-        <img alt="227-2" src={image00698} />
+        <img width={250} alt="227-2" src={image00698} />
 
         <p>图114　弯曲肘部，使头部向地面方向下降一半高度。</p>
       </div>
@@ -211,7 +211,7 @@ export default function Shoulder() {
       </p>
 
       <div>
-        <img alt="229-1" src={image00699} />
+        <img width={250} alt="229-1" src={image00699} />
       </div>
 
       <p>
@@ -219,7 +219,7 @@ export default function Shoulder() {
       </p>
 
       <div>
-        <img alt="229-2" src={image00700} />
+        <img width={250} alt="229-2" src={image00700} />
       </div>
 
       <p>
@@ -259,13 +259,13 @@ export default function Shoulder() {
       </p>
 
       <div>
-        <img alt="231-1" src={image00701} />
+        <img width={250} alt="231-1" src={image00701} />
 
         <p>图117　双手（尤其是两个食指）要互相接触。</p>
       </div>
 
       <div>
-        <img alt="231-2" src={image00702} />
+        <img width={250} alt="231-2" src={image00702} />
 
         <p>
           图118　弯曲肘部，直到头部轻轻“亲吻”地板，肘部保持向前、向外的朝向。
@@ -305,13 +305,13 @@ export default function Shoulder() {
       </p>
 
       <div>
-        <img alt="233-1" src={image00703} />
+        <img width={250} alt="233-1" src={image00703} />
 
         <p>图119　让双手尽量均匀地承担体重，平缓呼吸。</p>
       </div>
 
       <div>
-        <img alt="233-2" src={image00704} />
+        <img width={250} alt="233-2" src={image00704} />
 
         <p>图120　弯曲肘部，直到头部轻轻接触地板。</p>
       </div>
@@ -349,13 +349,13 @@ export default function Shoulder() {
       </p>
 
       <div>
-        <img alt="235-1" src={image00705} />
+        <img width={250} alt="235-1" src={image00705} />
 
         <p>图121　现在，你就是在以一只伸直的手臂支撑整个身体。</p>
       </div>
 
       <div>
-        <img alt="235-2" src={image00706} />
+        <img width={250} alt="235-2" src={image00706} />
 
         <p>图122　支撑身体的手臂肘部弯曲，直到头部向地面方向下降一半高度。</p>
       </div>
@@ -393,13 +393,13 @@ export default function Shoulder() {
       </p>
 
       <div>
-        <img alt="237-1" src={image00707} />
+        <img width={250} alt="237-1" src={image00707} />
 
         <p>图123　将一只手臂在自己面前伸展，这只手始终保持与地面的接触。</p>
       </div>
 
       <div>
-        <img alt="237-2" src={image00708} />
+        <img width={250} alt="237-2" src={image00708} />
 
         <p>图124　头顶轻轻接触地板，然后暂停一下。</p>
       </div>
@@ -435,13 +435,13 @@ export default function Shoulder() {
       </p>
 
       <div>
-        <img alt="239-1" src={image00709} />
+        <img width={250} alt="239-1" src={image00709} />
 
         <p>图125　脚跟与墙壁接触，身体略微成弓形。</p>
       </div>
 
       <div>
-        <img alt="239-2" src={image00710} />
+        <img width={250} alt="239-2" src={image00710} />
 
         <p>图126　为使身体脱离动作的最低点，你也可以向上蹬腿。</p>
       </div>

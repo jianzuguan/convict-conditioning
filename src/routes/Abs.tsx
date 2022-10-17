@@ -35,7 +35,7 @@ export default function Abs() {
       </p>
 
       <div>
-        <img alt="153-1" src={image00632} />
+        <img width={250} alt="153-1" src={image00632} />
       </div>
 
       <p>
@@ -43,7 +43,7 @@ export default function Abs() {
       </p>
 
       <div>
-        <img alt="153-2" src={image00633} />
+        <img width={250} alt="153-2" src={image00633} />
 
         <p>图62　动作完成时呼气结束，腹肌保持收缩状态。</p>
       </div>
@@ -81,13 +81,13 @@ export default function Abs() {
       </p>
 
       <div>
-        <img alt="155-1" src={image00634} />
+        <img width={250} alt="155-1" src={image00634} />
 
         <p>图63　膝盖弯曲近90°，双脚距离地面约2～5厘米。</p>
       </div>
 
       <div>
-        <img alt="155-2" src={image00635} />
+        <img width={250} alt="155-2" src={image00635} />
 
         <p>图64　膝盖始终接近90°，在此过程中呼气，腹部肌肉保持收紧。</p>
       </div>
@@ -125,13 +125,13 @@ export default function Abs() {
       </p>
 
       <div>
-        <img alt="157-1" src={image00636} />
+        <img width={250} alt="157-1" src={image00636} />
 
         <p>图65　双腿抬起，膝盖弯曲，使大腿与小腿的夹角大约成135°。</p>
       </div>
 
       <div>
-        <img alt="157-2" src={image00637} />
+        <img width={250} alt="157-2" src={image00637} />
 
         <p>图66　在整个动作过程中，膝盖弯曲的角度应该保持不变——始终“锁定”。</p>
       </div>
@@ -169,19 +169,19 @@ export default function Abs() {
       </p>
 
       <div>
-        <img alt="159-1" src={image00638} />
+        <img width={250} alt="159-1" src={image00638} />
 
         <p>图67　完全伸直双腿，使其与地面垂直，并与上半身的夹角成90°。</p>
       </div>
 
       <div>
-        <img alt="159-2" src={image00639} />
+        <img width={250} alt="159-2" src={image00639} />
 
         <p>图68　降低双腿并保持完全伸展。</p>
       </div>
 
       <div>
-        <img alt="159-3" src={image00640} />
+        <img width={250} alt="159-3" src={image00640} />
 
         <p>图69　直到双腿距离地面约2～5厘米。</p>
       </div>
@@ -219,13 +219,13 @@ export default function Abs() {
       </p>
 
       <div>
-        <img alt="161-1" src={image00641} />
+        <img width={250} alt="161-1" src={image00641} />
 
         <p>图70　双手向下按压地板，以保持身体稳定。</p>
       </div>
 
       <div>
-        <img alt="161-2" src={image00642} />
+        <img width={250} alt="161-2" src={image00642} />
       </div>
 
       <p>
@@ -265,13 +265,13 @@ export default function Abs() {
       </p>
 
       <div>
-        <img alt="163-1" src={image00643} />
+        <img width={250} alt="163-1" src={image00643} />
 
         <p>图72　身体成一条直线，保持肩部收紧。</p>
       </div>
 
       <div>
-        <img alt="163-2" src={image00644} />
+        <img width={250} alt="163-2" src={image00644} />
       </div>
 
       <p>
@@ -311,13 +311,13 @@ export default function Abs() {
       </p>
 
       <div>
-        <img alt="165-1" src={image00645} />
+        <img width={250} alt="165-1" src={image00645} />
 
         <p>图74　弯曲膝盖，直到膝关节大约成135°，双脚置于身后几厘米。</p>
       </div>
 
       <div>
-        <img alt="165-2" src={image00646} />
+        <img width={250} alt="165-2" src={image00646} />
 
         <p>图75　整个运动过程中，只能移动髋部，膝盖要保持锁定。</p>
       </div>
@@ -355,19 +355,19 @@ export default function Abs() {
       </p>
 
       <div>
-        <img alt="167-1" src={image00647} />
+        <img width={250} alt="167-1" src={image00647} />
 
         <p>图76　双脚伸向正前方，直至双腿完全伸直。</p>
       </div>
 
       <div>
-        <img alt="167-2" src={image00648} />
+        <img width={250} alt="167-2" src={image00648} />
 
         <p>图77　慢慢放下双腿，在此过程中双腿始终伸直。</p>
       </div>
 
       <div>
-        <img alt="167-3" src={image00649} />
+        <img width={250} alt="167-3" src={image00649} />
 
         <p>图78　该动作完成时，身体完全伸展。</p>
       </div>
@@ -405,13 +405,13 @@ export default function Abs() {
       </p>
 
       <div>
-        <img alt="169-1" src={image00650} />
+        <img width={250} alt="169-1" src={image00650} />
 
         <p>图79　双腿锁定，然后慢慢抬起，使之与地面之间的夹角成45°。</p>
       </div>
 
       <div>
-        <img alt="169-2" src={image00651} />
+        <img width={250} alt="169-2" src={image00651} />
 
         <p>图80　平缓地抬起双腿，直到它们与地面平行。</p>
       </div>
@@ -447,13 +447,13 @@ export default function Abs() {
       </p>
 
       <div>
-        <img alt="171-1" src={image00652} />
+        <img width={250} alt="171-1" src={image00652} />
 
         <p>图81　即使在起始姿势中腹部也要收紧，两腿始终锁定。</p>
       </div>
 
       <div>
-        <img alt="171-2" src={image00653} />
+        <img width={250} alt="171-2" src={image00653} />
 
         <p>图82　举腿时呼气，尽量将所有气体都呼出肺部，使腹部完全收紧。</p>
       </div>

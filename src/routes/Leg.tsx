@@ -16,7 +16,6 @@ import image00591 from '../img/image00591.jpeg';
 import image00592 from '../img/image00592.jpeg';
 import image00593 from '../img/image00593.jpeg';
 import image00594 from '../img/image00594.jpeg';
-import image00568 from '../img/image00568.jpeg';
 import image00595 from '../img/image00595.jpeg';
 import image00596 from '../img/image00596.jpeg';
 
@@ -34,13 +33,13 @@ export default function Leg() {
       </p>
 
       <div>
-        <img alt="085-1" src={image00577} />
+        <img width={250} alt="085-1" src={image00577} />
 
         <p>图21　把双手撑在下背部，注意上臂要紧贴地面。</p>
       </div>
 
       <div>
-        <img alt="085-2" src={image00578} />
+        <img width={250} alt="085-2" src={image00578} />
 
         <p>图22　上半身要尽可能伸直，弯曲髋部与膝关节，直到膝盖轻触前额。</p>
       </div>
@@ -78,13 +77,13 @@ export default function Leg() {
       </p>
 
       <div>
-        <img alt="087-1" src={image00579} />
+        <img width={250} alt="087-1" src={image00579} />
 
         <p>图23　身体前倾，使一部分体重落在双手上。</p>
       </div>
 
       <div>
-        <img alt="087-2" src={image00580} />
+        <img width={250} alt="087-2" src={image00580} />
 
         <p>图24　弯曲膝关节和髋部，直到大腿后侧紧贴小腿，无法蹲得更低为止。</p>
       </div>
@@ -122,13 +121,13 @@ export default function Leg() {
       </p>
 
       <div>
-        <img alt="089-1" src={image00581} />
+        <img width={250} alt="089-1" src={image00581} />
 
         <p>图25　手臂向斜下方伸出，双手放在比自己的大腿略高的稳固物体上。</p>
       </div>
 
       <div>
-        <img alt="089-2" src={image00582} />
+        <img width={250} alt="089-2" src={image00582} />
 
         <p>图26　弯曲髋部与膝关节，身体慢慢下降，背部尽可能保持挺直。</p>
       </div>
@@ -166,13 +165,13 @@ export default function Leg() {
       </p>
 
       <div>
-        <img alt="091-1" src={image00583} />
+        <img width={250} alt="091-1" src={image00583} />
 
         <p>图27　脚尖不要指向正前方，而要略微向外。</p>
       </div>
 
       <div>
-        <img alt="091-2" src={image00584} />
+        <img width={250} alt="091-2" src={image00584} />
 
         <p>图28　弯曲髋部和膝盖，直到膝关节弯曲成90°。</p>
       </div>
@@ -210,13 +209,13 @@ export default function Leg() {
       </p>
 
       <div>
-        <img alt="093-1" src={image00585} />
+        <img width={250} alt="093-1" src={image00585} />
 
         <p>图29　直立，双脚分开，与肩同宽或略宽（取决于个人偏好）。</p>
       </div>
 
       <div>
-        <img alt="093-2" src={image00586} />
+        <img width={250} alt="093-2" src={image00586} />
 
         <p>图30　有控制地继续放低身体，直到大腿后侧紧贴小腿。</p>
       </div>
@@ -254,13 +253,13 @@ export default function Leg() {
       </p>
 
       <div>
-        <img alt="095-1" src={image00587} />
+        <img width={250} alt="095-1" src={image00587} />
 
         <p>图31　直立，双脚脚跟相碰，脚尖微微向外，双臂前伸。</p>
       </div>
 
       <div>
-        <img alt="095-2" src={image00588} />
+        <img width={250} alt="095-2" src={image00588} />
 
         <p>图32　为避免后倾，你得收缩胫骨肌肉使身体微微前倾。</p>
       </div>
@@ -298,7 +297,7 @@ export default function Leg() {
       </p>
 
       <div>
-        <img alt="097-1" src={image00589} />
+        <img width={250} alt="097-1" src={image00589} />
       </div>
 
       <p>
@@ -306,7 +305,7 @@ export default function Leg() {
       </p>
 
       <div>
-        <img alt="097-2" src={image00590} />
+        <img width={250} alt="097-2" src={image00590} />
 
         <p>
           图34　弯曲膝盖和髋部，直到踩在地上的那条腿的大腿后侧紧贴小腿后侧。
@@ -346,13 +345,13 @@ export default function Leg() {
       </p>
 
       <div>
-        <img alt="099-1" src={image00591} />
+        <img width={250} alt="099-1" src={image00591} />
 
         <p>图35　抬起的脚大约处在另一条腿大腿的高度上。</p>
       </div>
 
       <div>
-        <img alt="099-2" src={image00592} />
+        <img width={250} alt="099-2" src={image00592} />
       </div>
 
       <p>
@@ -392,13 +391,13 @@ export default function Leg() {
       </p>
 
       <div>
-        <img alt="101-1" src={image00593} />
+        <img width={250} alt="101-1" src={image00593} />
 
         <p>图37　直立，一只脚平放在地面上，另一只脚在你前方抬起。</p>
       </div>
 
       <div>
-        <img alt="101-2" src={image00594} />
+        <img width={250} alt="101-2" src={image00594} />
 
         <p>图38　用手按压篮球，以便在反向动作的最初阶段借力。</p>
       </div>
@@ -425,9 +424,7 @@ export default function Leg() {
         如果你还达不到该练习的初级标准，那就试着使用比篮球高的物体，椅子或矮咖啡桌都是不错的选择。相比于使用篮球，这些物体可以在更大的运动范围内为你的手臂提供支撑。一旦你借助更高物体能完成该动作，就可以换用矮一些的物体，就这样循序渐进地练习，直到你准备好再次尝试用篮球做该动作。
       </p>
 
-      <h3>
-        单腿深蹲
-      </h3>
+      <h3>单腿深蹲</h3>
 
       <h4>动作</h4>
 
@@ -436,13 +433,13 @@ export default function Leg() {
       </p>
 
       <div>
-        <img alt="103-1" src={image00595} />
+        <img width={250} alt="103-1" src={image00595} />
 
         <p>图39　抬起一条腿，直到脚大约与髋部等高，腿要尽量伸直。</p>
       </div>
 
       <div>
-        <img alt="103-2" src={image00596} />
+        <img width={250} alt="103-2" src={image00596} />
       </div>
 
       <p>图40　缓慢地下蹲，直到支撑腿的大腿后侧紧贴小腿，无法继续下蹲为止。</p>

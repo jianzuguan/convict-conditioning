@@ -36,13 +36,13 @@ export default function Back() {
       </p>
 
       <div>
-        <img alt="121-1" src={image00606} />
+        <img width={250} alt="121-1" src={image00606} />
 
         <p>图41　靠近物体站立，脚尖与之保持约8～15厘米的距离。</p>
       </div>
 
       <div>
-        <img alt="121-2" src={image00607} />
+        <img width={250} alt="121-2" src={image00607} />
 
         <p>图42　此时，你的上背部应该有拉伸感，手臂可能也会有同感。</p>
       </div>
@@ -80,13 +80,13 @@ export default function Back() {
       </p>
 
       <div>
-        <img alt="123-1" src={image00608} />
+        <img width={250} alt="123-1" src={image00608} />
 
         <p>图43　身体绷紧，让双手和双脚脚跟承担身体的重量。</p>
       </div>
 
       <div>
-        <img alt="123-2" src={image00609} />
+        <img width={250} alt="123-2" src={image00609} />
       </div>
 
       <p>
@@ -126,7 +126,7 @@ export default function Back() {
       </p>
 
       <div>
-        <img alt="125-1" src={image00610} />
+        <img width={250} alt="125-1" src={image00610} />
       </div>
 
       <p>
@@ -134,7 +134,7 @@ export default function Back() {
       </p>
 
       <div>
-        <img alt="125-2" src={image00611} />
+        <img width={250} alt="125-2" src={image00611} />
       </div>
 
       <p>
@@ -174,13 +174,13 @@ export default function Back() {
       </p>
 
       <div>
-        <img alt="127-1" src={image00612} />
+        <img width={250} alt="127-1" src={image00612} />
 
         <p>图47　双臂弯曲接近90°（上臂应与地面平行），肩部始终收紧。</p>
       </div>
 
       <div>
-        <img alt="127-2" src={image00613} />
+        <img width={250} alt="127-2" src={image00613} />
 
         <p>图48　在动作过程中肘部可以向前移动，但两腿应始终保持不动。</p>
       </div>
@@ -218,13 +218,13 @@ export default function Back() {
       </p>
 
       <div>
-        <img alt="129-1" src={image00614} />
+        <img width={250} alt="129-1" src={image00614} />
 
         <p>图49　肘部略微弯曲（几乎看不出来），让肌肉而不是肘关节承担压力。</p>
       </div>
 
       <div>
-        <img alt="129-2" src={image00615} />
+        <img width={250} alt="129-2" src={image00615} />
 
         <p>图50　弯曲肘部，夹起肩部，直至下巴超过横杆。</p>
       </div>
@@ -262,13 +262,13 @@ export default function Back() {
       </p>
 
       <div>
-        <img alt="131-1" src={image00616} />
+        <img width={250} alt="131-1" src={image00616} />
 
         <p>图51　双手尽量挨在一起，距离最宽也不要超过10厘米。</p>
       </div>
 
       <div>
-        <img alt="131-2" src={image00617} />
+        <img width={250} alt="131-2" src={image00617} />
 
         <p>图52　整个运动过程中，腿部尽量保持不动。</p>
       </div>
@@ -306,13 +306,13 @@ export default function Back() {
       </p>
 
       <div>
-        <img alt="133-1" src={image00618} />
+        <img width={250} alt="133-1" src={image00618} />
 
         <p>图53　采用侧握或反握姿势会比经典的正握姿势舒服。</p>
       </div>
 
       <div>
-        <img alt="133-2" src={image00619} />
+        <img width={250} alt="133-2" src={image00619} />
 
         <p>图54　弯曲肘部，夹起肩部，平缓地将自己拉起来，直到下巴高过横杆。</p>
       </div>
@@ -350,13 +350,13 @@ export default function Back() {
       </p>
 
       <div>
-        <img alt="135-1" src={image00620} />
+        <img width={250} alt="135-1" src={image00620} />
 
         <p>图55　采用侧握或反握姿势会比经典的正握姿势舒服。</p>
       </div>
 
       <div>
-        <img alt="135-2" src={image00621} />
+        <img width={250} alt="135-2" src={image00621} />
 
         <p>图56　弯曲肘部，夹起肩部，平缓地将自己拉起来，直到下巴高过横杆。</p>
       </div>
@@ -394,7 +394,7 @@ export default function Back() {
       </p>
 
       <div>
-        <img alt="137-1" src={image00622} />
+        <img width={250} alt="137-1" src={image00622} />
       </div>
 
       <p>
@@ -402,7 +402,7 @@ export default function Back() {
       </p>
 
       <div>
-        <img alt="137-2" src={image00623} />
+        <img width={250} alt="137-2" src={image00623} />
 
         <p>图58　放开毛巾，只用单手继续将自己向上拉，直到下巴高过横杆。</p>
       </div>
@@ -429,9 +429,7 @@ export default function Back() {
         抓握毛巾的那只手的位置越低，就越难提供助力。如果你不能做5次反复，那就升高抓握毛巾的位置，使其更靠近横杆一点儿。等你变得更强以后，就可以降低抓握毛巾的位置。最后，你会感觉到自己是在向下“推”毛巾，而不是“拉”毛巾，这样你的身体就能在这个动作中变得越来越强，并为练习最终式——单臂引体向上——做好准备。
       </p>
 
-      <h3>
-        单臂引体向上
-      </h3>
+      <h3>单臂引体向上</h3>
 
       <h4>动作</h4>
 
@@ -440,13 +438,13 @@ export default function Back() {
       </p>
 
       <div>
-        <img alt="139-1" src={image00624} />
+        <img width={250} alt="139-1" src={image00624} />
 
         <p>图59　发力那只手的手臂几乎伸直，但略有弯曲以减少关节的压力。</p>
       </div>
 
       <div>
-        <img alt="139-2" src={image00625} />
+        <img width={250} alt="139-2" src={image00625} />
 
         <p>图60　弯曲肘部，夹起肩部，将自己拉起来，尽量少用惯性。</p>
       </div>

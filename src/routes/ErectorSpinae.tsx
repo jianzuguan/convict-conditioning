@@ -37,13 +37,13 @@ export default function ErectorSpinae() {
       </p>
 
       <div>
-        <img alt="187-1" src={image00659} />
+        <img width={250} alt="187-1" src={image00659} />
 
         <p>图83　双脚与肩同宽或略窄，依个人舒适度而定。</p>
       </div>
 
       <div>
-        <img alt="187-2" src={image00660} />
+        <img width={250} alt="187-2" src={image00660} />
 
         <p>图84　大腿和躯干应成一条直线，髋部不要下沉。</p>
       </div>
@@ -81,13 +81,13 @@ export default function ErectorSpinae() {
       </p>
 
       <div>
-        <img alt="189-1" src={image00661} />
+        <img width={250} alt="189-1" src={image00661} />
 
         <p>图85　坐直，此时腿和上半身之间的夹角成90°。</p>
       </div>
 
       <div>
-        <img alt="189-2" src={image00662} />
+        <img width={250} alt="189-2" src={image00662} />
 
         <p>图86　将髋部向上推起，直到双腿与躯干成一条直线。</p>
       </div>
@@ -125,13 +125,13 @@ export default function ErectorSpinae() {
       </p>
 
       <div>
-        <img alt="191-1" src={image00663} />
+        <img width={250} alt="191-1" src={image00663} />
 
         <p>图87　借助一个与膝盖等高或略高的物体。</p>
       </div>
 
       <div>
-        <img alt="191-2" src={image00664} />
+        <img width={250} alt="191-2" src={image00664} />
 
         <p>图88　手臂不必完全伸直，肘部应该是弯曲的。</p>
       </div>
@@ -169,13 +169,13 @@ export default function ErectorSpinae() {
       </p>
 
       <div>
-        <img alt="193-1" src={image00665} />
+        <img width={250} alt="193-1" src={image00665} />
 
         <p>图89　弯曲手臂与双腿，直到头部轻轻接触地板。</p>
       </div>
 
       <div>
-        <img alt="193-2" src={image00666} />
+        <img width={250} alt="193-2" src={image00666} />
 
         <p>图90　将背部向上推起成“桥式”。</p>
       </div>
@@ -213,13 +213,13 @@ export default function ErectorSpinae() {
       </p>
 
       <div>
-        <img alt="195-1" src={image00667} />
+        <img width={250} alt="195-1" src={image00667} />
 
         <p>图91　双脚与肩同宽或略窄，球支撑着腰部。</p>
       </div>
 
       <div>
-        <img alt="195-2" src={image00668} />
+        <img width={250} alt="195-2" src={image00668} />
 
         <p>图92　继续向上运动，直到背部形成完全的弧形。</p>
       </div>
@@ -257,13 +257,13 @@ export default function ErectorSpinae() {
       </p>
 
       <div>
-        <img alt="197-1" src={image00669} />
+        <img width={250} alt="197-1" src={image00669} />
 
         <p>图93　双手撑在头部两侧的地板上，手指指向脚，两肘指向天花板。</p>
       </div>
 
       <div>
-        <img alt="197-2" src={image00670} />
+        <img width={250} alt="197-2" src={image00670} />
 
         <p>图94　头部尽量后仰，从而看到后面的墙壁。</p>
       </div>
@@ -301,19 +301,19 @@ export default function ErectorSpinae() {
       </p>
 
       <div>
-        <img alt="199-1" src={image00671} />
+        <img width={250} alt="199-1" src={image00671} />
 
         <p>图95　身体继续平缓地向后仰，直到可以看到身后的墙壁。</p>
       </div>
 
       <div>
-        <img alt="199-2" src={image00672} />
+        <img width={250} alt="199-2" src={image00672} />
 
         <p>图96　用手在墙壁上向下“行走”时，身体要一直向后弯曲。</p>
       </div>
 
       <div>
-        <img alt="199-3" src={image00673} />
+        <img width={250} alt="199-3" src={image00673} />
 
         <p>图97　双手手掌撑地，此时你其实是在墙根处做标准的桥式。</p>
       </div>
@@ -349,19 +349,19 @@ export default function ErectorSpinae() {
       </p>
 
       <div>
-        <img alt="201-1" src={image00674} />
+        <img width={250} alt="201-1" src={image00674} />
 
         <p>图98　让一只手重新接触墙壁，同时用力推墙壁。</p>
       </div>
 
       <div>
-        <img alt="201-2" src={image00675} />
+        <img width={250} alt="201-2" src={image00675} />
 
         <p>图99　继续向上“走”，直到身体几乎伸直。</p>
       </div>
 
       <div>
-        <img alt="201-3" src={image00676} />
+        <img width={250} alt="201-3" src={image00676} />
 
         <p>图100　双手轻轻推墙，再次完全脱离墙壁站立。</p>
       </div>
@@ -399,19 +399,19 @@ export default function ErectorSpinae() {
       </p>
 
       <div>
-        <img alt="203-1" src={image00677} />
+        <img width={250} alt="203-1" src={image00677} />
 
         <p>图101　双手置于髋部两侧，并开始向前推骨盆。</p>
       </div>
 
       <div>
-        <img alt="203-2" src={image00678} />
+        <img width={250} alt="203-2" src={image00678} />
 
         <p>图102　一旦看到地面，就让双手离开髋部并将其举过头顶。</p>
       </div>
 
       <div>
-        <img alt="203-3" src={image00679} />
+        <img width={250} alt="203-3" src={image00679} />
 
         <p>图103　手臂保持伸展，直到手掌接触地面。</p>
       </div>
@@ -447,19 +447,19 @@ export default function ErectorSpinae() {
       </p>
 
       <div>
-        <img alt="205-1" src={image00680} />
+        <img width={250} alt="205-1" src={image00680} />
 
         <p>图104　按照合桥（第九式）的运动过程，做出标准桥式。</p>
       </div>
 
       <div>
-        <img alt="205-2" src={image00681} />
+        <img width={250} alt="205-2" src={image00681} />
 
         <p>图105　双手（最后是手指）用力按压地面，使手掌离地。</p>
       </div>
 
       <div>
-        <img alt="205-3" src={image00682} />
+        <img width={250} alt="205-3" src={image00682} />
 
         <p>图106　将髋部拉回，成直立姿势，双手回到身体两侧。</p>
       </div>
