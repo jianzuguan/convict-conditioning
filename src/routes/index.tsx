@@ -3,6 +3,7 @@ import Home from './Home';
 import Chest from './Chest';
 import Abs from './Abs';
 import Back from './Back';
+import Leg from './Leg';
 
 export default function AllRoutes() {
   return (
@@ -11,6 +12,7 @@ export default function AllRoutes() {
       <Route path="/chest" element={<Chest />} />
       <Route path="/abs" element={<Abs />} />
       <Route path="/back" element={<Back />} />
+      <Route path="/leg" element={<Leg />} />
     </Routes>
   );
 }
