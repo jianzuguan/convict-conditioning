@@ -5,6 +5,7 @@ import Abs from './Abs';
 import Back from './Back';
 import Leg from './Leg';
 import ErectorSpinae from './ErectorSpinae';
+import Shoulder from './Shoulder';
 
 export default function AllRoutes() {
   return (
@@ -15,6 +16,7 @@ export default function AllRoutes() {
       <Route path="/back" element={<Back />} />
       <Route path="/leg" element={<Leg />} />
       <Route path="/erector-spinae" element={<ErectorSpinae />} />
+      <Route path="/shoulder" element={<Shoulder />} />
     </Routes>
   );
 }
