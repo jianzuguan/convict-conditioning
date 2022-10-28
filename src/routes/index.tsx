@@ -4,19 +4,19 @@ import Chest from './Chest';
 import Abs from './Abs';
 import Back from './Back';
 import Leg from './Leg';
-import ErectorSpinae from './ErectorSpinae';
+import Spine from './Spine';
 import Shoulder from './Shoulder';
 
 export default function AllRoutes() {
   return (
     <Routes>
       <Route path="/" element={<Home />} />
-      <Route path="/chest" element={<Chest />} />
-      <Route path="/abs" element={<Abs />} />
-      <Route path="/back" element={<Back />} />
-      <Route path="/leg" element={<Leg />} />
-      <Route path="/erector-spinae" element={<ErectorSpinae />} />
-      <Route path="/shoulder" element={<Shoulder />} />
+      <Route path="/chest/:id" element={<Chest />} />
+      <Route path="/abs/:id" element={<Abs />} />
+      <Route path="/back/:id" element={<Back />} />
+      <Route path="/leg/:id" element={<Leg />} />
+      <Route path="/spine/:id" element={<Spine />} />
+      <Route path="/shoulder/:id" element={<Shoulder />} />
     </Routes>
   );
 }

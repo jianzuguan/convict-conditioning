@@ -23,7 +23,7 @@ import image00680 from '../img/image00680.jpeg';
 import image00681 from '../img/image00681.jpeg';
 import image00682 from '../img/image00682.jpeg';
 
-export default function ErectorSpinae() {
+export default function Spine() {
   return (
     <div>
       <h1>下腰! 锻炼脊椎</h1>
