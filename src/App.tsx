@@ -6,7 +6,9 @@ function App() {
   return (
     <HashRouter>
       <div>
-        <h1>囚徒健身</h1>
+        <a href="/convict-conditioning">
+          <h1>囚徒健身</h1>
+        </a>
 
         <ul>
           <li>
