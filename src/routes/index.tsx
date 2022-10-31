@@ -7,11 +7,14 @@ import Back from '../data/Back.json';
 import Leg from '../data/Leg.json';
 import Spine from '../data/Spine.json';
 import Shoulder from '../data/Shoulder.json';
+import TableOfContents from './TableOfContents';
 
 export default function AllRoutes() {
   return (
     <Routes>
       <Route path="/" element={<Home />} />
+      <Route path="/toc" element={<TableOfContents />} />
+      
       <Route
         path="/chest/:id"
         element={

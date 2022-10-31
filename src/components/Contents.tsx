@@ -1,17 +1,8 @@
+import {ContentData} from '../types';
 import Move from '../components/Move';
 
 interface Props {
-  contents: {
-    title: string;
-    description: string;
-    img: {
-      src: string;
-      alt: string;
-    }[];
-    breakdown: string;
-    objective: string[];
-    progression: string;
-  }[];
+  contents: ContentData[];
 }
 
 export default function Contents(props: Props) {

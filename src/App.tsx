@@ -9,7 +9,7 @@ function App() {
         <a href="/convict-conditioning">
           <h1>囚徒健身</h1>
         </a>
-
+        <Link to="/toc">目录</Link>
         <ul>
           <li>
             <Link to="/back/0">引体向上</Link>

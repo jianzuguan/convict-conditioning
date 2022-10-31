@@ -34,6 +34,8 @@ export default function Home() {
           <Link to="/shoulder/2">倒立撑 第二式　乌鸦式</Link>
         </li>
       </ul>
+
+    
     </div>
   );
 }
